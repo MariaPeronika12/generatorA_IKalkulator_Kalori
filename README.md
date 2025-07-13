@@ -3,6 +3,9 @@
 
 **Kalkulator Kalori Harian (AI)** adalah aplikasi web interaktif yang membantu pengguna menghitung kebutuhan kalori harian berdasarkan data pribadi, seperti usia, jenis kelamin, tinggi badan, dan berat badan. Aplikasi ini memberikan estimasi kalori harian dan rencana makan yang didukung oleh AI.
 
+## 🖼️ Tampilan Input Web hasil Link dibawah ini
+https://gemini.google.com/share/7c26920d478f
+
 ## 🖼️ Tampilan Output Web Hasil Link dibawah ini
 https://g.co/gemini/share/e8a8ef1659e7
  
